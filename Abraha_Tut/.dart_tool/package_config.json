@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "Abraha_Tut",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-05-20T14:24:41.702060Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.1"
+}
